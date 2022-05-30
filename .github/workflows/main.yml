@@ -1,6 +1,6 @@
 
 name: CI to Docker Hub 
-
+# docker username and pass added
 on:
   push:
     branches: [ main ]
